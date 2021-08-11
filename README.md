@@ -1,1 +1,1 @@
-# UdacityIntro_to_Statistics
+# Udacity/Intro_to_Statistics
